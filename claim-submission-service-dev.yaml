@@ -1,5 +1,5 @@
 app:
- name: claim-submission-service-dev-changed
+ name: claim-submission-service-dev
 
 server:
  port: 8887
