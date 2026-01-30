@@ -1,0 +1,6 @@
+app:
+ name: claim-submission-service
+
+server:
+ port: 8889
+  
